@@ -21,4 +21,4 @@ $ webpack-dev-server
   
 # Live App-demo
   
-  Go to 
+  Go to `https://heroku-reactjs.herokuapp.com/`
