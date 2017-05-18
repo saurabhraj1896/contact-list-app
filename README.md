@@ -19,6 +19,6 @@ $ webpack-dev-server
   
   After entering required input fields click `Create Contact` button to submit the enetred data.
   
-  #Live App-demo
+# Live App-demo
   
   Go to 
