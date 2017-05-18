@@ -17,7 +17,7 @@ $ webpack-dev-server
   
   Type `http://localhost:8080` in your browser to start this application.
   
-  After entering required input fields click `Create Contact` button to submit the enetred data.
+  After entering required input fields click `Create Contact` button to submit the entered data.
   
 # Live App-demo
   
