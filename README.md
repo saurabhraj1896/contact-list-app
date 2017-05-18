@@ -20,5 +20,6 @@ $ webpack-dev-server
   After entering required input fields click `Create Contact` button to submit the entered data.
   
 # Live App-demo
-  
-  Go to `https://heroku-reactjs.herokuapp.com/`
+
+  Go to: 
+  <a href="https://heroku-reactjs.herokuapp.com/" target="_blank">https://heroku-reactjs.herokuapp.com/</a>
